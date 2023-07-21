@@ -1,0 +1,32 @@
+body {
+    background-color: #212121;
+}
+
+.search-box {
+    text-align: center;
+    background-color: #262728;
+    border: 0;
+    height: 5vh;
+    width: 70vh;
+
+    font-size: xx-large;
+    border-radius: 17px;
+    outline-style: initial;
+    font-family: fantasy;
+
+    color: aliceblue;
+}
+
+.center {
+    text-align: center;
+    padding-top: 35vh;
+}
+
+.time {
+    color: aliceblue;
+    font-family: fantasy;
+
+    font-size: 5.7vh;
+
+    padding-bottom: 5vh;
+}
